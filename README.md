@@ -1,7 +1,7 @@
 # Description
 A simple and sophisticated demonstration of backend services development using Spring Boot.
 # Author
-Anantha Sashi Sekhar Karedla
+Ronit Rajkumar Chougule
 
 # Features implemented
 - Basic CRUD Functionality.
